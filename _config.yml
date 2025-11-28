@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Equilibrez"
-  avatar : "/assets/images/LogoEquilibrezRetaille.jpg"
+  avatar : "/assets/images/LogoEquilibrezRetailleSimple.jpg"
   bio    : "Bienvenue !"
   links:
     - label: "Website"
