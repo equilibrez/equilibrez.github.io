@@ -2,9 +2,9 @@ main:
   - title: "Articles"
     url: /posts/
   - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+    url: /categories
+    #    - title: "Tags"
+    #   url: /tags/
   - title: "Liens"
     url: /links/
   - title: "A propos"
