@@ -1,6 +1,5 @@
 ---
-title: "Post: Standard"
-excerpt_separator: "<!--more-->"
+title: "Structural Protocol: Neutralizing Loneliness and Reclaiming Focus"
 categories:
   - Blog
 tags:
