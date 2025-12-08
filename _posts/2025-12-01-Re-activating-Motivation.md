@@ -1,6 +1,5 @@
 ---
-title: "Post: Standard"
-excerpt_separator: "<!--more-->"
+title: "Structural Protocol: Re-Activating Motivation"
 categories:
   - Blog
 tags:
