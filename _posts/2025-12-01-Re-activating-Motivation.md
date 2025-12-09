@@ -13,7 +13,7 @@ The solution is the **"Two-Step Momentum Hack."** We use the **low-cost activity
 
 ---
 
-### Step 1: Execute the Low-Cost External Action (Sun/Movement) ☀️
+### Step 1: Execute the Low-Cost External Action (Sun/Movement)
 
 **Go out first.** This breaks the paralysis state immediately.
 
@@ -25,7 +25,7 @@ The solution is the **"Two-Step Momentum Hack."** We use the **low-cost activity
 
 ---
 
-### Step 2: Transition to High-Cost Internal Action (work) 💻
+### Step 2: Transition to High-Cost Internal Action (work)
 
 The goal is to leverage the momentum and the regulated energy from Step 1 to initiate work immediately upon return.
 
