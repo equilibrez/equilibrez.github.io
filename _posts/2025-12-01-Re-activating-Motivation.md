@@ -9,7 +9,9 @@ tags:
   - stability
 ---
 
-The solution is the **"Two-Step Momentum Hack."** We use the **low-cost activity** (sun) as the bridge to the **high-cost activity** (BTS).
+> The Stable Truth: Working is the only action that yields both financial autonomy and genuine, sustained mental satisfaction.
+
+The solution is the **"Two-Step Momentum Hack."** We use the **low-cost activity** (sun) as the bridge to the **high-cost activity** Working.
 
 ---
 
@@ -25,7 +27,7 @@ The solution is the **"Two-Step Momentum Hack."** We use the **low-cost activity
 
 ---
 
-### Step 2: Transition to High-Cost Internal Action (work)
+### Step 2: Transition to High-Cost Internal Action (working)
 
 The goal is to leverage the momentum and the regulated energy from Step 1 to initiate work immediately upon return.
 
@@ -33,4 +35,3 @@ The goal is to leverage the momentum and the regulated energy from Step 1 to ini
 * **The Action:** Focus on the **lowest-friction task possible:** reviewing your notes, organizing a file, or starting one small, concrete problem. Do **not** start the hardest task.
 * **The Why (Dopamine Re-Association):** The act of initiating a productive task, even for a short time, triggers a small, **earned dopamine hit.** This begins to retrain your brain to associate the feeling of **"good" with "effort"** instead of "passive consumption."
 
-> The Stable Truth: Working is the only action that yields both financial autonomy and genuine, sustained mental satisfaction.
