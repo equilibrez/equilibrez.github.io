@@ -9,8 +9,6 @@ tags:
   - stability
 ---
 
-## Structural Protocol: Re-Activating Motivation 
-
 The solution is the **"Two-Step Momentum Hack."** We use the **low-cost activity** (sun) as the bridge to the **high-cost activity** (BTS).
 
 ---
