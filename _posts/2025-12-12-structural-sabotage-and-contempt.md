@@ -23,7 +23,7 @@ The mechanism that binds a person to a chaotic partner is biologically identical
 * Some nervous systems (often linked to high intelligence, ADD traits, or high sensitivity) have a **lower baseline of Dopamine.**
 * These systems are biologically hungry for stimulation. They do not just "like" sugar/screens/chaos; they **use** them to self-medicate and reach a normal baseline of stimulation.
 
-## 🛠️ Structural Protocol: Managing personal sensitivity
+## Structural Protocol: Managing personal sensitivity
 
 **Question :**How to get away with this, when we know there is a limitation, particularly for a child? This could give an impression of scarcity. We will assume it's a boy. 
 
