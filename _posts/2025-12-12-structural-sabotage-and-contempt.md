@@ -1,5 +1,5 @@
 ---
-title: "draft"
+title: ""
 categories:
   - Blog
   - stability
