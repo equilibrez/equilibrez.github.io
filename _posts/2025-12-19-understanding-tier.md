@@ -1,5 +1,12 @@
-
-
+---
+title: "Tier Structural Vocabulary Defined"
+categories:
+  - Blog
+  - stability
+  - Definition
+tags:
+  - Post Formats
+  - stability
 ---
 
 ## Structural Vocabulary Defined
