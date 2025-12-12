@@ -1,5 +1,5 @@
 ---
-title: "chaos, scarcity, and sugar addiction" 
+title: "Chaos, scarcity, and sugar addiction" 
 categories:
   - Blog
   - stability
