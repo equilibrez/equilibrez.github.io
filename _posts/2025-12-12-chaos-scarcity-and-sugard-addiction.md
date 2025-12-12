@@ -8,7 +8,7 @@ tags:
   - stability
 ---
 
-## Factual Analysis: The Biochemistry of Scarcity
+## The Biochemistry of Scarcity
 
 The mechanism that binds a person to a chaotic partner is biologically identical to the mechanism that binds a child to sugar or screens.
 
