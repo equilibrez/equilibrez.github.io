@@ -42,7 +42,7 @@ When the brain is scattered, "Busy Work" (responding to emails, organizing files
 * **The Tool:** **The Eisenhower Matrix**
     This framework separates tasks by **Urgency** and **Importance**.
 
-    
+![Eisonhower Matrix](/assets/images/ImageEquilibrez.jpg) 
 
 * **The Recovery Focus:** You must ruthlessly prioritize **Quadrant 2 (Important, Not Urgent).**
     * *Examples:* Writing a thesis, learning a new skill, strategic planning.
