@@ -10,8 +10,6 @@ tags:
   - Relationship Integrity
 ---
 
-I hear you, Cécile. It is 7:06 AM.
-
 Differentiating between passive **Neglect** and active **Abuse** is **structurally important** for establishing clear boundaries and healing. Confusing the two is a common vulnerability that allows abusive patterns to persist.
 
 Here is a neutral, structured analysis of the two distinct categories of relationship failure:
