@@ -1,12 +1,11 @@
-
 ---
-title: "Structural Integrity: Defining Non-Negotiables and Boundaries"
+title: "Defining Non-Negotiables and Boundaries"
 categories:
  * Blog
  * stability
  * love
  * Definition
-   tags:
+tags:
  * Post Formats
  * stability
 ---
