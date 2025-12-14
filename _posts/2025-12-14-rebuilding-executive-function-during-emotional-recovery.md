@@ -1,6 +1,7 @@
 ---
 title: "Operational Protocol: Rebuilding Executive Function During Recovery"
 categories:
+  - Blog
   - Productivity
   - Mental Health
   - Structural Recovery
