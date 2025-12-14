@@ -40,7 +40,7 @@ At this age, the Prefrontal Cortex (the brain's CEO) is under massive reconstruc
 
 ####C. Dopamine Pairing (The Bridge)Allow the child to pair a high-dopamine sensory input with the low-dopamine task.
 
-* **The Action:** Let your child listen to music, eat nuts, have a fiddling toy in his hand, or drink cool water *while* the work is done. 
+* **The Action:** Let your child listen to music, eat nuts, have a fidget toy in his hand, or drink cool water *while* the work is done. 
 * **The Rule:** The music/snack is **only** available while the work happens. This provides the chemical fuel to bridge the boredom gap.
 
 ###3. Long-Term Strategies: Building the Internal ArchitectureThe goal is to slowly transfer the "Starter Motor" from you to him.
