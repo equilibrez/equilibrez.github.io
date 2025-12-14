@@ -1,7 +1,7 @@
-
 ---
 title: "Cognitive Dividend: Cortisol, Stress, and the Prefrontal Cortex"
 categories:
+  - blog
   - Neuroscience
   - Stability
   - Definition
