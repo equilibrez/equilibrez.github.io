@@ -26,8 +26,6 @@ You must learn to distinguish between a Lapse in Performance (a mistake) and a L
 | The Awareness | Realizes the error immediately or soon after. | Denies the error ("You made me do it"). |
 | The Remorse | Active Remorse: "I am sorry I raised my voice. I was stressed, but that is not an excuse." | Fake Remorse: "I'm sorry you feel that way," or ignoring the event completely. |
 | The Repetition | It happens rarely (e.g., once a year). | It happens cyclically (e.g., once a week/month). |
-| Example: Women | Glances reflexively, then refocuses on the partner. | Stops in the street to look, comments on her body, and ignores the partner's discomfort. |
-
 
 The Stable Truth: physically hurting or harshly criticizing a partner to show superiority are never "bad days." They are Intentional Acts of Dominance and Disrespect. They are Tier 1 Violations.
 
