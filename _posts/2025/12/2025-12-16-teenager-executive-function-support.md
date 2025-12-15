@@ -2,15 +2,12 @@
 
 title: "Structural Protocol: Executive Function Support (Ages 11-16)"
 categories:
-* Blog
-* Parenting
-* Executive Function
-* Adolescence
+- Blog
+- Parenting
+- Executive Function
+- Adolescence
 tags:
-* Task Initiation
-* Dysgraphia
-* Body Doubling
-
+- Task Initiation
 ---
 
 Helping an adolescent (11-16) with Executive Function (EF) deficits—specifically **Task Initiation**—requires shifting from a "Behavioral Model" (Rewards/Punishment) to a "Structural Model" (Support/Scaffolding).
