@@ -1,13 +1,13 @@
 ---
 title: "Defining Non-Negotiables and Boundaries"
 categories:
- * Blog
- * stability
- * love
- * Definition
+ - Blog
+ - stability
+ - love
+ - Definition
 tags:
- * Post Formats
- * stability
+ - Post Formats
+ - stability
 ---
 
 A framework to define Non-Negotiables and to distinguish a "bad Day" from a "System Failure."
