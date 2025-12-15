@@ -1,5 +1,5 @@
 ---
-title: "Structural Protocol: Neutralizing Loneliness and Reclaiming Focus"
+title: "Vascular elasticity and upper body flow"
 categories:
   - Blog
 tags:
