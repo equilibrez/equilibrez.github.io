@@ -1,15 +1,14 @@
 ---
 title: "The Reality Anchor: A Universal Decoder (Gender Neutral)"
 categories:
-* Blog
-* Relationships
-* Mental Health
-* Emotional Abuse
+- Blog
+- Relationships
+- Mental Health
 tags:
-* Gaslighting
-* Cognitive Dissonance
-* Cheat Sheet
-* Structural Analysis
+- Gaslighting
+- Cognitive Dissonance
+- Cheat Sheet
+- Structural Analysis
 ---
 
 Here is the **Universal Reality Anchor Cheat Sheet**.
