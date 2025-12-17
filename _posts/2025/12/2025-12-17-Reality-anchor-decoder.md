@@ -1,5 +1,5 @@
 ---
-title: "The Reality Anchor: A Universal Decoder (Gender Neutral)"
+title: "The Reality Anchor: A Universal Decoder"
 categories:
 - Blog
 - Relationships
@@ -10,8 +10,6 @@ tags:
 - Cheat Sheet
 - Structural Analysis
 ---
-
-**Universal Reality Anchor Cheat Sheet**, adapted with "He/She" to be applicable to any partner.
 
 ### The Universal Reality Anchor Cheat Sheet
 
