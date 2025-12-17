@@ -13,7 +13,8 @@ tags:
 
 Here is the **Universal Reality Anchor Cheat Sheet**.
 
-###The Universal Reality Anchor Cheat Sheet####Category 1: Communication & "Jokes"| The Behavior | The Emotional Interpretation (The Trap) | The Structural Fact (The Reality) |
+###The Universal Reality Anchor Cheat Sheet
+####Category 1: Communication & "Jokes"| The Behavior | The Emotional Interpretation (The Trap) | The Structural Fact (The Reality) |
 | --- | --- | --- |
 | **The "Sensitive" Joke** | "He/She is just teasing me about my weight/intelligence. I am too sensitive. He/She says it's because we are comfortable." | **Erosion Testing.** He/She is testing your boundaries. If you accept the insult, He/She knows He/She can proceed to deeper abuse. He/She is lowering your self-esteem so you feel lucky to be with them. |
 | **The Word Salad** | "We argued for hours and I'm confused. I must have explained myself badly. He/She is just trying to understand." | **Resource Depletion.** He/She is not trying to understand; He/She is trying to exhaust you. Circular arguments are designed to fatigue your Prefrontal Cortex so you give up and apologize for things you didn't do. |
@@ -35,7 +36,6 @@ Here is the **Universal Reality Anchor Cheat Sheet**.
 | **Random Acts of Kindness** | "See? He/She cooked for me / bought me a gift. He/She *can* be sweet. The bad times are just accidents." | **Intermittent Reinforcement.** This is the gambling mechanic. He/She gives just enough "wins" to keep you playing the game. These are not acts of love; they are maintenance costs to keep the appliance (you) functioning. |
 | **The Tearful Apology** | "He/She is crying. He/She really means it this time. He/She is broken." | **Performance.** Look at the outcome, not the tears. Does the behavior change permanently? If not, the apology was just a tool to reset the cycle and avoid consequences. |
 
----
 
 ###The 3 Structural Tests (Universal)1. **The "Stranger on the Street" Test:**
 If a stranger blocked your path and wouldn't let you leave, would you call it "passion" or "harassment"?
