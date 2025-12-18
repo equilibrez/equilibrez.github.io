@@ -2,15 +2,13 @@
 
 title: "The Strategic Energy Audit: A Universal Guide to Entropy Management"
 categories:
-
-* Blog
-* Stability
-* System-Management
+- Blog
+- Stability
+- System Management
 tags:
-* Energy-Conservation
-* Entropy
-* Executive-Function
-* Biological-Efficiency
+- Energy audit
+- Entropy
+- Executive Function
 
 ---
 
