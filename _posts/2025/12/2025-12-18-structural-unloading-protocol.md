@@ -1,6 +1,6 @@
 ---
 
-title: "cheat sheet:Structural Unloading Protocol" 
+title: "Cheat sheet : Structural Unloading Protocol" 
 categories:
 - Blog
 - Cognitive off loading
