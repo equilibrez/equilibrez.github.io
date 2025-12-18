@@ -3,14 +3,14 @@
 title: "The Physics of Presence: Managing the Localized Pocket of Order"
 categories:
 
-* Blog
-* stability
-* Definition
+- Blog
+- stability
+- Definition
 tags:
-* EnergyConservation
-* Entropy
-* StrategicRest
-* SystemsThinking
+- EnergyConservation
+- Entropy
+- StrategicRest
+- SystemsThinking
 
 ---
 
