@@ -2,13 +2,13 @@
 
  title: "The Energy Conservation Audit: Minimizing Stress-Leakage"
  categories:
- * Blog
- * stability
- * Definition
+ - Blog
+ - stability
+ - Definition
  tags:
- * EnergyAudit
- * NoiseReduction
- * StrategicAdvocacy
+ - EnergyAudit
+ - NoiseReduction
+ - StrategicAdvocacy
 
 ---
 
