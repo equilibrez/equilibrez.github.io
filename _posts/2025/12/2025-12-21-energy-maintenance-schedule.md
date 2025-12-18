@@ -3,14 +3,12 @@
 title: "Energy Maintenance Schedule: Maximizing Biological Recovery"
 categories:
 
-* Blog
-* stability
-* Systems-Thinking
+- Blog
+- stability
 tags:
-* Energy-Recovery
-* Circadian-Rhythm
-* Metabolic-Cleaning
-* Biological-Efficiency
+- Energy-Recovery
+- Circadian-Rhythm
+- Metabolic-Cleaning
 
 ---
 
