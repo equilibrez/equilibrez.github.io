@@ -63,6 +63,23 @@ Because unpredictable interactions cause "Structural Bracing," your muscles may 
 * **The Protocol:** Starting from your toes and moving up to your jaw, squeeze each muscle group as hard as you can for 5 seconds, then release completely for 10 seconds.
 * **The Mechanic:** The contrast between extreme tension and release "teaches" the nervous system what true relaxation feels like, effectively "flushing" the tension from the tissues.
 
+### 5. Weight and Pressure Reset
+
+When we feel scattered and "leaky," giving the body a sense of weight helps it feel contained again.
+
+* **The Protocol:** Use a heavy blanket, or simply press your hands firmly onto your thighs and feel the floor beneath your feet.
+
+* ***Why it works:*** It provides "grounding" data to your brain, moving the focus away from the "what-ifs" and back into your physical space.
+
+
+6. Simple Sensory Scan
+
+When you are stuck in a "Slot Machine" loop with someone, your brain is hyper-focused on them. You need to pull that energy back to you.
+
+* **The Protocol:** Name 3 things you can see right now that are beautiful or neutral (a plant, a book, the sky) and 3 things you can hear.
+
+* ***Why it works:*** It breaks the loop of obsessive thinking and brings you back to your "Pocket of Order."
+
 ### Summary: The Systemic Reset
 
 By using these mechanical tools, you are performing **Biological Maintenance.** You are not waiting for the "feeling" of stress to go away; you are actively removing the "waste heat" from your system so your internal engine can cool down.
