@@ -24,7 +24,7 @@ The most important thing to know is that **you cannot talk yourself out of this 
 
 The Vagus nerve is the "primary cable" for the parasympathetic nervous system (Rest and Digest). You can stimulate it directly to send an immediate "All Clear" signal to the brain.
 
-* **Thermal Shock:** Splash ice-cold water on your face for 30 seconds or hold an ice pack to your chest.
+* **Thermal Shock:** Splash ice-cold water on your face for 30 seconds or hold an ice pack to your chest, or drink very cold water.
 * **The Mechanic:** This triggers the **Mammalian Dive Reflex**, which immediately slows the heart rate and redirects blood flow to the brain and heart.
 
 
