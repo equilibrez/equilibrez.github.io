@@ -14,9 +14,11 @@ tags:
 
 ---
 
-When you are exposed to a **High-Entropy Source** or caught in a "Slot Machine" loop of unpredictable behavior, your body enters a state of **Structural Bracing.** Even after the interaction ends, the "waste heat" (cortisol and adrenaline) remains in your system, keeping your "radiators" running and your energy leaking.
+When you are dealing with unpredictability, or stressful period —where you never know if you'll get a "star" or a "strike"— your body goes into a high-alert "bracing" mode. It's like your muscles are physically preparing for an impact that may or may not come.
 
-To preserve your *qi* and restore stability, you must perform a **Manual Override.** You cannot think your way into calmness; you must use mechanical inputs to force the nervous system to shift from "Defensive" to "Maintenance" mode.
+Even after you walk away, your body doesn't just "turn off." It stays revved up, flooded with stress hormones like adrenaline. You are effectively "leaking" energy because your system is still running as if there is an active emergency.
+
+The most important thing to know is that **you cannot talk yourself out of this feeling.** Since your body is in survival mode, your logical brain is mostly offline. To get back to a state of peace and save your energy, you have to use physical "overrides"—like cold water or specific breathing—to manually signal to your nervous system that it is finally safe to relax and reset.
 
 ### 1. The Vagus Nerve Reset (Thermal & Pressure Inputs)
 
