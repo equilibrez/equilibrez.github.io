@@ -1,6 +1,6 @@
 ---
 
-title: "The Physical Release: Stretching to Let Go of the "Brace""
+title: "The Physical Release: Stretching to Let Go of the "Brace"
 categories:
 - Blog
 - Stability
