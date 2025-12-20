@@ -16,7 +16,7 @@ In a high-friction life, your energy is your most precious currency. If you spen
 
 To stop the leak, you must move from Reactive Panic to Structural Management. Below is the protocol to audit your energy and reduce the "noise" in your daily operations.
 
-### 1. The Energy Audit: Work vs. Hea
+### 1. The Energy Audit: Work vs. Heat
 
 Use this table to evaluate your daily activities. If an activity is "Leaking Heat," it must be capped or eliminated.
 
