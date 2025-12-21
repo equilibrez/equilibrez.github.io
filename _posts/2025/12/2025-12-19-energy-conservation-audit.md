@@ -23,22 +23,12 @@ Use this table to evaluate your daily activities. If an activity is "Leaking Hea
 | Activity | Result | Classification |
 |---|---|---|
 | Using the "Unloading Protocol" | Clarity, lowered heart rate, specific tasks. | Work (High Efficiency) |
-| Advocating for your son (Directly) | Administrative record, potential solution. | Work (High Impact) |
-| Worrying about a "0" in drawing | High cortisol, arm pain, no change in grade. | Leaking Heat (Inefficient) |
-| Reading the "Ex's" Blog | Identity theft feelings, 3 AM wake-up. | Leaking Heat (Radiator) |
-| Helping your son code a browser | Bonding, skill building, dopamine. | Work (Investment) |
+| Advocating for your child (Directly) | Administrative record, potential solution. | Work (High Impact) |
+| Worrying about a bad grade | High cortisol, disappointment, no change in grade. | Leaking Heat (Inefficient) |
+| Reading someone you dislike blog| Anger, comparison, late sleep | Leaking Heat (Radiator) |
+| Playing a game with your child | Bonding, skill building, dopamine. | Work (Investment) |
 
-
-### 2. The "Noise Reduction" Checklist: School Interaction
-
-Tomorrow, you have a tactical opportunity during the chocolate distribution. To ensure this interaction remains "High Work" and "Low Heat," follow this checklist:
- * [ ] Define the Objective: You are not there to complain. You are there to provide New Medical Data (The Bilan).
- * [ ] Stick to the Script: Use the "Code Words" (Executive Function, Sensory Regulation, Restorative Measure). These words act as shields that prevent the Director from dismissing you as an "emotional parent."
- * [ ] Prepare for the "No": If you don't see the Director, have your note ready. Dropping a note is Low Energy. Chasing him through the halls is High Leak.
- * [ ] Set a Time Limit: Give yourself 5 minutes for the interaction. If it goes longer, you are likely "leaking heat" into a circular discussion.
-
-
-### 3. Biological Efficiency: The Maintenance Cycle
+### 2. Biological Efficiency: The Maintenance Cycle
 
 Because your "trash" (metabolic waste) piles up faster due to your high-friction operating system, you must prioritize the Flush Phase.
  * Hydration: Water is the literal solvent that flushes adenosine and metabolic waste.
