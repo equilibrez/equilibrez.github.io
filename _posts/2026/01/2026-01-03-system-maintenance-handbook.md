@@ -83,7 +83,7 @@ When we feel the need to protect ourselves, we instinctively hunch forward. This
 
 ### 2. The Psoas Release (Discharging the "Flight" Energy)
 
-The psoas is the deep muscle that connects your spine to your legs. It is the primary engine for running. If you are in a "Slot Machine" loop of unpredictable behavior, this muscle remains "charged" with adrenaline.
+The psoas is the deep muscle that connects your spine to your legs. It is the primary engine for running. When in stress this muscle remains "charged" with adrenaline.
 
 * **The Move:** Perform a kneeling low lunge, pushing your hips forward gently.
 * **The Result:** It physically "unplugs" the survival energy stored in the lower body, allowing you to feel grounded.
