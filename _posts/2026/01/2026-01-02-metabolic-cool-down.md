@@ -11,6 +11,8 @@ tags:
 - Metabolic-Reset
 - Recovery
 
+---
+
 When the "Chemical Engine" is running hot due to late-night chocolate or stimulants, you need a protocol to neutralize the "waste heat" and assist the body in returning to a stable, low-temperature state. This is not about "detoxing," but about the **mechanical cooling** of the system to allow for deep sleep.
 
 If you have consumed theobromine or caffeine, your system is in a state of vasodilation and increased heart rate. To counteract this, you must prioritize inputs that facilitate **Heat Dissipation** and **Chemical Clearance.**
