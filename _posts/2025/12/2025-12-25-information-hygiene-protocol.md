@@ -2,15 +2,13 @@
 
 title: "The Somatic De-escalation Protocol: Manual Override of the Stress Response"
 categories:
-
-* Blog
-* stability
-* Tools
+- Blog
+- stability
+- Tools
 tags:
-* Somatic-De-escalation
-* Vagus-Nerve
-* Biofeedback
-* System-Reset
+- Somatic-De-escalation
+- Vagus-Nerve
+- System-Reset
 
 ---
 
