@@ -4,12 +4,9 @@ title: "Identifying the Intermittent Reinforcement Loop"
 categories:
 - Blog
 - stability
-- System-Management
 tags:
-- Somatic-Alerts
 - Intermittent-Reinforcement
 - Nervous-System
-- Biofeedback
 
 ---
 
