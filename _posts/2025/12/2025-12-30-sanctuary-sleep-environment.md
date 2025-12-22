@@ -11,6 +11,8 @@ tags:
 - Environmental-Design
 - Recovery
 
+---
+
 For a high-sensitivity system—especially one navigating ADHD or the lingering effects of high-stress environments—the bedroom is more than just a place to sleep. It is the **Primary Recovery Zone.** When the nervous system is prone to "Structural Bracing" or "Cache Overload" during the day, the sleep environment must be engineered to provide **Zero Input.** Any sensory noise (light, heat, or sound) can trigger the brain to resume "Scanning Mode," leading to vivid dreams or restorative failure.
 
 This checklist is a mechanical guide to creating a "Read-Only" sanctuary.
