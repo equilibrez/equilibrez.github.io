@@ -11,9 +11,10 @@ tags:
 - Recovery
 - Protection
 
-When living with ADHD or PTSD, your "internal manager" can often be overloaded by high-entropy inputs. This handbook serves as your **External Scaffolding**. It consolidates the mechanical protocols we have developed into a single reference guide to help you maintain your "Pocket of Order."
-
 ---
+
+When living with ADHD or PTSD, your "internal manager" can often be overloaded by chaotic inputs. This handbook serves as your **External Scaffolding**. It consolidates the mechanical protocols we have developed into a single reference guide to help you maintain your "Pocket of Order."
+
 
 ### I. The Environmental Scaffold (Managing the External)
 
@@ -95,7 +96,6 @@ High-speed processing and stress often lead to clenching the jaw and tightening 
 * **The Move:** Drop your jaw and massage the joints near your ears. Follow with a slow chin-tuck to stretch the back of the neck.
 * **The Result:** This is the quickest way to tell the brain that the "threat" is no longer active. It releases the "Thinking Tension."
 
----
 
 ### Summary: Operating the System
 
