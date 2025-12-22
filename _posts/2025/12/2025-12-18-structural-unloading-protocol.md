@@ -19,13 +19,9 @@ Here is the **Structural Unloading Protocol**, you can save this, print it, or k
 ---
 
 You know the feeling. It starts with a tightness in the chest or a buzzing in the head. Suddenly, you aren't just dealing with one problem; you are dealing with *everything* at once. The dirty dishes, the difficult email, the past trauma, the future worries—they all fuse into one giant, unmanageable noise.
-
 This is not a character flaw. This is **RAM Overload.**
-
 Your brain’s working memory is full. When the RAM is full, the "Operating System" (your Prefrontal Cortex, responsible for logic) freezes, and the "Alarm System" (your Amygdala, responsible for panic) takes over.
-
 You cannot "think" your way out of this state. You must mechanically unload the data.
-
 Here is the 4-step **Structural Unloading Protocol** to move from panic to action.
 
 ---
@@ -37,13 +33,11 @@ Here is the 4-step **Structural Unloading Protocol** to move from panic to actio
 ### Phase 1: The Brain Dump (Get It Out)
 
 Stop trying to organize your thoughts. Just vomit the data onto the page. Write down everything that is stressing you out in one messy, chaotic list or paragraph. Do not filter.
-
 > **Example:** *“I’m stressed because my son won’t shower, the teacher hasn’t replied, I feel like a failure because I read my ex's blog, the kitchen is a disaster, and my arm hurts.”*
 
 ### Phase 2: The Sieve (Separate Fact from Fiction)
 
 Your brain adds "emotional stories" to neutral facts to try to make sense of the pain. These stories are usually lies. Draw a table with two columns and sort your Brain Dump.
-
 | **Column A: The Raw Data (Facts)** | **Column B: The Emotional Story (The Lie)** |
 | --- | --- |
 | *(What a security camera would see)* | *(What your fear is adding)* |
