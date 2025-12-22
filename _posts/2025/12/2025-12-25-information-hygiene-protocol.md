@@ -6,7 +6,6 @@ categories:
 - stability
 - Tools
 tags:
-- Somatic-De-escalation
 - Vagus-Nerve
 - System-Reset
 
