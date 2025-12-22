@@ -8,8 +8,9 @@ categories:
 tags:
 - Sleep-Hygiene
 - Executive-Function
-- Routine-Design
 - Nervous-System
+
+---
 
 Transitioning from a high-output day to a restorative sleep state requires a deliberate **Down-Regulation Protocol.** Without a specific sequence of actions, the brain continues to "process" active files, leading to light sleep, vivid dreams, and a cluttered cache the following morning.
 
