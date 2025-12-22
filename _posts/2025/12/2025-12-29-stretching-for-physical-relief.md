@@ -10,7 +10,7 @@ tags:
 - Stretching
 - Stress-Management
 - Body-Work
-
+  
 ---
 
 When you are dealing with unpredictable situations or people, your body doesn't just sit there; it prepares. It enters a state of "bracing." You might not even notice it happening, but your shoulders creep up toward your ears, your jaw sets tight, and your stomach knots up.
