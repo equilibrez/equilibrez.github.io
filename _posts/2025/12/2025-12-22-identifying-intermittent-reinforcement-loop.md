@@ -10,7 +10,7 @@ tags:
 
 ---
 
-In a structural analysis of relationships, your body serves as a high-precision sensor. It often detects a **Chaotic Source** (unpredictable behavior) before the logical brain can understand the it. When you are exposed to **Intermittent Reinforcement**—the "Slot Machine" effect of random kindness followed by neglect—your nervous system produces specific somatic indicators.
+In a structural analysis of relationships, your body serves as a high-precision sensor. It often detects a **Chaotic Source** (unpredictable behavior) before the logical brain can understand the it. When you are exposed to **Intermittent Reinforcement**—the "Slot Machine" effect of random kindness followed by neglect, abuse or test ; your nervous system produces specific somatic indicators.
 
 Identifying these "Somatic Red Flags" allows you to identify the interaction as a **Systemic Threat** rather than an emotional mystery.
 
