@@ -15,19 +15,18 @@ tags:
 
 When you are exposed to a **High-Entropy Source** or caught in a "Slot Machine" loop of unpredictable behavior, your body enters a state of **Structural Bracing.** Even after the interaction ends, the "waste heat" (cortisol and adrenaline) remains in your system, keeping your "radiators" running and your energy leaking.
 
-To preserve your *qi* and restore stability, you must perform a **Manual Override.** You cannot think your way into calmness; you must use mechanical inputs to force the nervous system to shift from "Defensive" to "Maintenance" mode.
+To preserve your energy and restore stability, you must perform a **Manual Override.** You cannot think your way into calmness; you must use mechanical inputs to force the nervous system to shift from "Defensive" to "Maintenance" mode. Be gentle with yourself, it can be more difficult at the beginning. Any improvement, as small as it seems, matters. 
 
 ### 1. The Vagus Nerve Reset (Thermal & Pressure Inputs)
 
 The Vagus nerve is the "primary cable" for the parasympathetic nervous system (Rest and Digest). You can stimulate it directly to send an immediate "All Clear" signal to the brain.
 
-* **Thermal Shock:** Splash ice-cold water on your face for 30 seconds or hold an ice pack to your chest.
+* **Thermal Shock:** Splash ice-cold water on your face for 30 seconds or hold an ice pack to your chest or drink a glass of cold water.
 * **The Mechanic:** This triggers the **Mammalian Dive Reflex**, which immediately slows the heart rate and redirects blood flow to the brain and heart.
 
 
 * **Vocal Resonance:** Hum or sing at a low frequency.
 * **The Mechanic:** The Vagus nerve passes near the vocal cords. The physical vibration of low-frequency sound stimulates the nerve, signaling the system to lower its "operating temperature."
-
 
 
 ### 2. The 4-7-8 Respiratory Brake
