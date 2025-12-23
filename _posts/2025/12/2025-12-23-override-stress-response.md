@@ -13,7 +13,7 @@ tags:
 
 ---
 
-When you are exposed to a **High-Entropy Source** or caught in a "Slot Machine" loop of unpredictable behavior, your body enters a state of **Structural Bracing.** Even after the interaction ends, the "waste heat" (cortisol and adrenaline) remains in your system, keeping your "radiators" running and your energy leaking.
+When you are exposed to a **Chaotic Source** or caught in a loop of unpredictable behavior, your body enters a state of **Structural Bracing.** Even after the interaction ends, the "waste heat" (the hormones cortisol and adrenaline) remains in your system, keeping your "radiators" running and your energy leaking.
 
 To preserve your energy and restore stability, you must perform a **Manual Override.** You cannot think your way into calmness; you must use mechanical inputs to force the nervous system to shift from "Defensive" to "Maintenance" mode. Be gentle with yourself, it can be more difficult at the beginning. Any improvement, as small as it seems, matters. 
 
@@ -31,7 +31,7 @@ The Vagus nerve is the "primary cable" for the parasympathetic nervous system (R
 
 ### 2. The 4-7-8 Respiratory Brake
 
-Breathing is the only part of the autonomic nervous system under your conscious control. By changing the rhythm of your breath, you change the chemistry of your blood.
+Breathing is the only part of the autonomic nervous system under your conscious control. By changing the rhythm of your breath, you change the chemistry of your blood. Oxygen impacts blood pH. 
 
 * **The Protocol:**
 1. Inhale through the nose for **4 seconds**.
@@ -70,14 +70,6 @@ When we feel scattered and "leaky," giving the body a sense of weight helps it f
 
 * ***Why it works:*** It provides "grounding" data to your brain, moving the focus away from the "what-ifs" and back into your physical space.
 
-
-6. Simple Sensory Scan
-
-When you are stuck in a "Slot Machine" loop with someone, your brain is hyper-focused on them. You need to pull that energy back to you.
-
-* **The Protocol:** Name 3 things you can see right now that are beautiful or neutral (a plant, a book, the sky) and 3 things you can hear.
-
-* ***Why it works:*** It breaks the loop of obsessive thinking and brings you back to your "Pocket of Order."
 
 ### Summary: The Systemic Reset
 
