@@ -73,3 +73,10 @@ When you encounter manipulative data or harsh criticism, the instinct is often t
 ### Summary: Becoming the Analyst
 
 Building Cognitive Sovereignty is a shift from "Believing" to "Analyzing." It is a slower way of processing the world, but it is infinitely more stable. By running your life through the **3-Gate Filter**, you ensure that you are the only one writing the source code of your own reality.
+
+The 3 steps in a glance:
+
+Step,Action,Frequency
+Step 1,"Label the Source: ""This is a memory of a controller.""","Every time a ""legacy file"" runs."
+Step 2,"Deploy the Gate: ""Is there evidence for this today?""",When self-doubt appears.
+Step 3,"Archive & Delete: ""This data is low-value.""",Before starting your BTS work.
