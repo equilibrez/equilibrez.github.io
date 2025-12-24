@@ -12,6 +12,8 @@ tags:
 - Boundaries
 - Resilience
 
+---
+
 In high-pressure environments—whether a toxic relationship, a demanding workplace, or simply the noise of the modern digital world—our ability to trust our own perception can be eroded. We may find ourselves accepting external criticisms as truth or doubting our own competence without cause.
 
 Recovering from these environments requires more than just time; it requires a new structural skill: **Cognitive Sovereignty**.
