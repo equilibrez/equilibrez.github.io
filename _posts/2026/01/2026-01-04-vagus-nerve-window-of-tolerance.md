@@ -2,15 +2,13 @@
 
 title: "The Body as Hardware: Vagus Nerve and the Window of Tolerance"
 categories:
-
-* Maintenance
-* System-Repair
-* Somatic-Reset
+- Maintenance
+- System-Repair
+- Somatic-Reset
 tags:
-* Nervous-System
-* Vagus-Nerve
-* Window-of-Tolerance
-* Self-Regulation
+- Nervous-System
+- Vagus-Nerve
+- Self-Regulation
 
 ---
 
