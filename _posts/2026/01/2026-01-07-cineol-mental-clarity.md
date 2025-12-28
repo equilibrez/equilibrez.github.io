@@ -3,11 +3,11 @@
 title: "1.8 Cineol for Mental Clarity
 categories:
 
-* Blog
-* stability
+- Blog
+- stability
 tags:
-* Post Formats
-* burnout
+- Post Formats
+- burnout
 
 ---
 
