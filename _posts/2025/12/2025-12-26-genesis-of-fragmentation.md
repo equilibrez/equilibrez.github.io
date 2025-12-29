@@ -31,24 +31,24 @@ Object constancy is the ability to remember that a person (or a feeling) is stil
 
 * **The Defect:** In fragmented individuals, this "wiring" is faulty. Their reality is **State-Dependent.**
 * **The Mechanic:** If they feel "Nice" in this second, that is their whole world. If they feel "Evil" or "Lustful" in the next, the "Nice" version of them is effectively **offline.**
-* **The Experience:** This is how a partner can hurt you, they are someone else. In that moment, the "Partner" compartment was closed, and the "Duping/Theater" compartment is open. There is no internal "witness" to tell  the actions are contradictory.
+* **The Experience:** This is how a partner can hurt you, they are someone else. In that moment, the "Partner" compartment was closed, and the "Duping" compartment is open. There is no internal "witness" to tell  the actions are contradictory.
 
 ### 3. The Reinforcement of the "Mental Theater"
 
 When a child's real life is painful or powerless, they retreat into an internal world where they are the Director.
 
-* **Professionalization of Fantasy:** Over decades, the internal theater becomes more sophisticated than the external reality. They begin to use real people as **props** to act out their internal scenes.
+* **Professionalization of Fantasy:** Over decades, the internal world becomes more sophisticated than the external reality. They begin to use real people as **props** to act out their internal scenes.
 * **Identity Performance:** Because they lack a solid internal "floor," they "wear" identities like costumes. They can play the "Good Father" or the "Successful Businessman" or the "Passionate Lover" with high precision, but because it is a costume and not a skin, they can take it off the moment the audience changes.
 
 ### 4. The Pathological "Need" for an Audience
 
 A fragmented person often feels "empty" inside because there is no central "I" to hold their experiences.
 
-* **The Mirroring Need:** They use an audience (you) to prove they exist. 
+* **The Mirroring Need:** They use an audience, you, to prove they exist. 
 * **The Lack of Empathy:** Because they are so busy managing their internal "Theater," they cannot perceive your internal world. You are simply a **Functional Component** in their script.
 
 ### Summary: The Broken Bridge
 
 Fragmentation is the result of a system that learned to **survive by dividing.** The "bridge" between their different parts was never built.
 
-What matters is it is **non-repairable from the outside.** You cannot "love" the pieces back together because the "glue" (the ability to integrate) was never developed in their early wiring.  Not being in touch is the only logical **Structural Seal** to prevent your own energy from being extracted to fuel this theater.
+What matters is it is **non-repairable from the outside.** You cannot "love" the pieces back together because the "glue" (the ability to integrate) was never developed in their early wiring.  Not being in touch is the only logical **Structural Seal** to prevent your own energy from being extracted to fuel this fantasy world.
