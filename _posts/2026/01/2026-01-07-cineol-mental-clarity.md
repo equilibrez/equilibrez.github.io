@@ -1,6 +1,6 @@
 ---
 
-title: "1,8 Cineol for Mental Clarity" 
+title: "1,8-Cineol for Mental Clarity" 
 categories:
 - Blog
 - stability
