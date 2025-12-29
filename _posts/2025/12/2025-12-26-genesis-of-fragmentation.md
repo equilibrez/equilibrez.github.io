@@ -45,7 +45,7 @@ When a child's real life is painful or powerless, they retreat into an internal 
 A fragmented person often feels "empty" inside because there is no central "I" to hold their experiences.
 
 * **The Mirroring Need:** They use an audience, you, to prove they exist. 
-* **The Lack of Empathy:** Because they are so busy managing their internal "Theater," they cannot perceive your internal world. You are simply a **Functional Component** in their script.
+* **The Lack of Empathy:** Because they are so busy managing their internal "fantasy world," they cannot perceive your internal world. You are simply a **Functional Component** in their script.
 
 ### Summary: The Broken Bridge
 
