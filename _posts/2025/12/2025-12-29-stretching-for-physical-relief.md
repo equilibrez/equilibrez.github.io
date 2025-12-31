@@ -47,6 +47,6 @@ This isn’t a traditional stretch, but it is one of the fastest ways to dischar
 Stand up and literally shake your arms, shake your hands out, and shake each leg for about a minute. Imagine you are shaking off dust.
 * **Why it works:** Animals in the wild do this immediately after escaping a predator. It "flushes" the excess adrenaline out of the tissues and resets the nervous system to neutral.
 
-### Summary: Communicating Safety
+### Summary
 
 Stretching helps because it is a language your body understands deeper than words. By physically lengthening tight muscles, you are sending a direct message to your nervous system that the threat has passed, allowing you to finally drop the armor and conserve your energy.
