@@ -70,16 +70,19 @@ You cannot expect a high-performance engine to run smoothly on low-grade fuel. T
 
 ---
 
-## **Micronutrient Substitution Table for ADD Optimization**
+### Micronutrient Substitution Table for ADD Optimization
 
-To maintain the Metabolic Pipeline for dopamine synthesis, the following substitutions ensure that the Prefrontal Cortex (PFC) receives the necessary co-factors for executive function.
+To maintain the **Metabolic Pipeline** for dopamine synthesis while avoiding allergens, the following table maps out the specific co-factors required for executive function.
 
-Nutrient,Role in ADD Hardware,Spinach-Free Alternatives,Bio-Utility Note
-Iron (Fe),"Required for Tyrosine Hydroxylase (the ""start button"" for dopamine).","Lentils, Spinach, Kale, Grass-fed Beef, Pumpkin Seeds.","Pairing with Vitamin C (lemon, peppers) increases absorption of non-heme (plant) iron."
-Folate (B9),Critical for the methylation cycle and neurotransmitter production.,"Arugula (Rocket), Asparagus, Avocado, Broccoli.",Heat destroys folate; consume these lightly steamed or raw for maximum data retention.
-Vitamin B6,Required for the final conversion of L-DOPA into active Dopamine.,"Wild Salmon, Walnuts, Bananas, Kale, Poultry.","B6 is also vital for the production of Serotonin, which helps regulate the ""Short Temper."""
-Magnesium (Mg),Prevents neuronal over-firing and reduces sensory overload/irritability.,"Dark Chocolate (85%+), Almonds, Pumpkin Seeds, Swiss Chard.","Deficiency often correlates with the ""Bracing"" sensation in the psoas and jaw."
-Zinc (Zn),Regulates dopamine transporter levels and attachment to receptors.,"Oysters, Beef, Chickpeas, Cashews, Hemp Seeds.","Zinc acts as a ""gatekeeper"" to ensure synthesized dopamine is actually utilized."
+| Nutrient | Role in ADD Hardware | Spinach-Free Alternatives | Bio-Utility Note |
+| --- | --- | --- | --- |
+| **Iron (Fe)** | Required for *Tyrosine Hydroxylase* (the "start button" for dopamine). | Lentils, Kale, Grass-fed Beef, Pumpkin Seeds. | Pairing with Vitamin C (lemon, peppers) increases absorption of non-heme (plant) iron. |
+| **Folate (B9)** | Critical for the methylation cycle and neurotransmitter production. | Arugula (Rocket), Asparagus, Avocado, Broccoli. | Heat destroys folate; consume these lightly steamed or raw for maximum data retention. |
+| **Vitamin B6** | Required for the final conversion of L-DOPA into active Dopamine. | Wild Salmon, Walnuts, Bananas, Kale, Poultry. | B6 is also vital for the production of Serotonin, which helps regulate the "Short Temper." |
+| **Magnesium (Mg)** | Prevents neuronal over-firing and reduces sensory overload/irritability. | Dark Chocolate (85%+), Almonds, Pumpkin Seeds, Swiss Chard. | Deficiency often correlates with the "Bracing" sensation in the psoas and jaw. |
+| **Zinc (Zn)** | Regulates dopamine transporter levels and attachment to receptors. | Oysters, Beef, Chickpeas, Cashews, Hemp Seeds. | Zinc acts as a "gatekeeper" to ensure synthesized dopamine is actually utilized. |
+
+This structural layout allows for a **precise and correct** audit of your nutritional intake, ensuring your **Prefrontal Cortex** (PFC) remains efficient despite the 3.5 years of cortisol-driven depletion. Maintaining these levels is a primary factor in preserving your current skin health and stabilizing your nervous system during recovery.
 
 ---
 
