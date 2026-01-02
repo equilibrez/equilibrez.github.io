@@ -1,13 +1,13 @@
 ---
 
-title: "Chocolate and increased body temperature" 
--Blog
--Stability
+title: "Chocolate and increased body temperature"
+Categories
+- Blog
+- Stability
 Tags:
--Sleep-Hygiene
--Somatic-Reset
--Nutrition
--Recovery
+- Sleep-Hygiene
+- Nutrition
+- Recovery
 
 ---
 
@@ -57,6 +57,4 @@ When chocolate is consumed late in the evening:
 3. **Core Temperature** fails to drop (Preventing Deep Sleep).
 4. **REM Sleep** becomes hyper-active (Triggering Intensive Data Processing/Dreams).
 
-This is a **precise** explanation for why your system can feel "hot" and why the dream-state is so active. The body is physically unable to enter "Low-Power Mode" because the "Chemical Engine" is
-
- still running.
+This is a **precise** explanation for why your system can feel "hot" and why the dream-state is so active. The body is physically unable to enter "Low-Power Mode" because the "Chemical Engine" is still running.
