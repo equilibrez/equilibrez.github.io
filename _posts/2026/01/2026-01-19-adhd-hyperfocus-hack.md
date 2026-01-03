@@ -99,7 +99,7 @@ Because the Skeleton has already defined the *next* tiny step, you don't have to
 ---
 
 ### How to Use the "Skeleton" for Bottom-Up Thinking
-Since you work from the bottom up, the "Skeleton" protocol we discussed needs a minor adjustment to fit your hardware:
+If you work from the bottom up, the "Skeleton" protocol needs a minor adjustment to fit your hardware:
 
 * **Phase 1 (The Dump)**: Continue to get all the "bricks" (data) out.
 
