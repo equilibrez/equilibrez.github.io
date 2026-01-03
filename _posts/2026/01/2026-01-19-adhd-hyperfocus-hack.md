@@ -53,7 +53,8 @@ The goal of the Skeleton is to ensure that when you sit down to work, you never 
 
 ## The Protocol: How to Build Your Skeleton
 
-Do not build the skeleton when you are tired, stressed, or ready to do the work. Build it when you are feeling creative or big-picture oriented (perhaps after a high-dopamine breakfast).
+Do not build the skeleton when you are tired, stressed, or ready to do the work. Build it when you are feeling creative or big-picture oriented (perhaps after a high-dopamine breakfast). 
+*Note: This method will work with the majority that works top to bottom. If your brain works the opposite there is a note on this at the end.*
 
 ### Phase 1: The Chaos Dump (High Energy State)
 
@@ -94,6 +95,17 @@ Normally, this is a day you would lose to paralysis. But today, you have a Skele
 Once you perform that one tiny, unambiguous action, you have crossed the friction threshold. You have successfully ignited the engine.
 
 Because the Skeleton has already defined the *next* tiny step, you don't have to stop to make a decision. You just slide into the next micro-task. Before you realize it, the dopamine from completing those tiny steps begins to flow, and you have engineered your way into hyperfocus without ever needing "willpower."
+
+---
+
+### How to Use the "Skeleton" for Bottom-Up Thinking
+Since you work from the bottom up, the "Skeleton" protocol we discussed needs a minor adjustment to fit your hardware:
+
+* **Phase 1 (The Dump)**: Continue to get all the "bricks" (data) out.
+
+* **Phase 2 (The Sorting)**: Instead of looking for a "Big Picture," simply find the first three bricks that belong together.
+
+* **Phase 3 (The Chain)**: Connect them in a 1→2→3 sequence. Once the first chain is built, your brain will naturally "click" into the next one.
 
 ---
 
