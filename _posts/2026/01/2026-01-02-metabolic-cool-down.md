@@ -15,7 +15,7 @@ tags:
 
 When the "Chemical Engine" is running hot due to late-night chocolate or stimulants, you need a protocol to neutralize the "waste heat" and assist the body in returning to a stable, low-temperature state. This is not about "detoxing," but about the **mechanical cooling** of the system to allow for deep sleep.
 
-If you have consumed theobromine or caffeine, your system is in a state of vasodilation and increased heart rate. To counteract this, you must prioritize inputs that facilitate **Heat Dissipation** and **Chemical Clearance.**
+If you have consumed cocoa (theobromine) or coffee (caffeine), your system is in a state of vasodilation and increased heart rate. To counteract this, you must prioritize inputs that facilitate **Heat Dissipation** and **Chemical Clearance.**
 
 ### 1. The Hydration Flush (Solvent Maintenance)
 
@@ -36,7 +36,7 @@ Stimulants often deplete minerals that the body uses to regulate muscle relaxati
 If you need to eat something to settle the metabolic "burn" of the chocolate, choose foods with high water and fiber content.
 
 * **The Choice:** Celery, cucumber, or a slice of melon.
-* **The Mechanic:** These foods require very little "Metabolic Work" to process compared to fats and proteins. They provide hydration and have a high **Specific Heat Capacity**, meaning they help absorb and carry away internal heat.
+* **The Mechanic:** These foods require very little "Metabolic Work" to process compared to fats and proteins. They provide hydration and carry away internal heat.
 
 ### 4. The "Radiator" Technique (Physical Cooling)
 
