@@ -2,14 +2,14 @@
 
 title: "The Biological Architecture of Grief: Why Your Brain Feels Broken"
 categories:
-* Neuroscience
-* Mental-Health
-* Cognitive-Performance
+- Neuroscience
+- Mental-Health
+- Cognitive-Performance
 tags:
-* Neuroplasticity
-* Grief-Recovery
-* Cortisol-Dynamics
-* Executive-Function
+- Neuroplasticity
+- Grief-Recovery
+- Cortisol-Dynamics
+- Executive-Function
 
 ---
 
